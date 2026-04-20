@@ -49,3 +49,6 @@ This software is developed for **educational purposes only**. The calculations a
 
 ---
 **Developed at Istanbul Technical University (İTÜ)**
+## License
+MIT License — see [LICENSE](LICENSE) for details.
+
