@@ -23,7 +23,7 @@ Engineering Portal is a comprehensive toolset designed for Metallurgical and Mat
 This project is currently undergoing a strategic migration from a mobile-native (iPadOS/Pythonista) environment to a universal Web/Desktop hybrid architecture.
 
 * **`Desktop-Web-Version` (Current Development Focus):** Uses a Python backend to serve dynamic HTML/JS interfaces in any modern web browser.
-* **`iOS-Mobile-Version` (Legacy):** The original source code developed for iPad using the `ui` framework.
+* **`Mobile-Version` (Legacy):** The original source code developed for iPad using the `ui` framework.
 
 ##  Key Features (WIP)
 * **Ellingham Diagram Simulator:** Dynamic stability analysis for metal oxides (ΔG° vs T).
