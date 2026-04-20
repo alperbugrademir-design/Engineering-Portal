@@ -14,8 +14,8 @@ Engineering Portal is a comprehensive toolset designed for Metallurgical and Mat
 
  ### **iOS-Mobile Version (Legacy)**
 1. This version requires the **Pythonista 3** app (available on the App Store) installed on an iPad or iPhone.
-2. Copy the entire `iOS-Mobile-Version` folder into your Pythonista "Local" or "iCloud" directory.
-3. Open the `portal.py` file within the Pythonista editor.
+2. Copy the entire `Mobile-Version` folder into your Pythonista "Local" or "iCloud" directory.
+3. Open the `main_code.py` file within the Pythonista editor.
 4. Tap the **"Run"** (Play) button to launch the interactive menu.
 
 
